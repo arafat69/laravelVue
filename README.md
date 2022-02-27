@@ -1,2 +1,1 @@
-
-**LaravelVue E-Learning
+LaravelVue E-Learning
